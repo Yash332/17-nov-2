@@ -1,0 +1,55 @@
+body {
+    margin-top: 20%;
+    background-color: rgba(21, 63, 8, 0.144);
+  }
+ 
+  .triangle {
+    height: 0px;
+    width: 0px;
+    border-radius: 0px;
+    border-style: solid;
+    border-color: black;
+    border-width: 120px;
+    border-bottom-color: rgb(255, 51, 0);
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-left-color: transparent;
+    border-top: 0;
+    margin-bottom: -10%;
+    margin-top: 5%;
+    margin-left: 40%;
+  }
+  
+  .triangle1 {
+    height: 0px;
+    width: 0px;
+    border-radius: 0px;
+    border-style: solid;
+    border-color: black;
+    border-width: 120px;
+    border-bottom-color: white;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-left-color: transparent;
+    border-top: 0px;
+    margin-bottom: 0;
+    margin-top: 0%;
+    margin-left: 40%;
+  }
+  
+  .triangle2 {
+    height: 0px;
+    width: 0px;
+    border-radius: 0px;
+    border-style: solid;
+    border-color: black;
+    border-width: 120px;
+    border-bottom-color: salmon;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-left-color: transparent;
+    border-top: 0px;
+    margin-bottom: 0%;
+    margin-top: -10%;
+    margin-left: 40%;
+  }
